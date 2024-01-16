@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #EFECE3;
+}
+
+.container {
+    /* background-color:; */
+    width: 25rem;
+    height: 3.5rem;
+}
+
+.nav-con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3.5rem;
+    border-bottom: 2px solid #CDCBC8;
+}
+
+a {
+    color: #739EC8;
+    text-decoration: none;
+}
+
+.home a {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.shade {
+    position: absolute;
+    padding-left: 2rem;
+    z-index: -25;
+}
+
+
+.acti-box {
+    width: 25rem;
+    padding-left: 3rem;
+}
+
+.activities {
+    font-size: 2.5rem;
+    font-weight: 600;
+    padding-top: 1rem;
+    padding-left: 5rem;
+    padding-bottom: .5rem;
+}
+
+.edu-con {
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.edu {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #739EC8;
+    padding-bottom: 1rem;
+}
+
+.ce {
+    font-size: 1.2rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    font-weight: 600;
+}
+
+.line-2 {
+    width: 55vh;
+    border-top: 1.5px solid black;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+.desc-1 {
+    margin-left: -0.8rem;
+    margin-bottom: 1.5rem;
+}
+
+.ccc {
+    font-size: 1.2rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    font-weight: 600;
+}
+
+.line-3 {
+    width: 55vh;
+    border-top: 1.5px solid black;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+.desc-2 {
+    margin-left: -0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.other-con {
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.other {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #739EC8;
+    padding-bottom: 1rem;
+}
+
+.esp {
+    font-size: 1.2rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    font-weight: 600;
+}
+
+.line-4 {
+    width: 37vh;
+    border-top: 1.5px solid black;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+.desc-3 {
+    margin-left: 0rem;
+    margin-bottom: 1.5rem;
+}
+
+.staff {
+    font-size: 1.2rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    font-weight: 600;
+}
+
+.line-5 {
+    width: 47vh;
+    border-top: 1.5px solid black;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+.desc-4 {
+    margin-left: .5rem;
+    margin-bottom: 1.5rem;
+}
+
+.footer-box {
+    background-color: #739EC8;
+    color: #EFECE3;
+    font-size: 1.1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25rem;
+    height: 5rem;
+    margin-top: 1.2rem;
+}
+
